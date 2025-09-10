@@ -15,8 +15,11 @@ This responsive portfolio is built using the iPortfolio HTML Template
 🔧 Tech Stack
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Responsive Web Design
 
 💼 What’s Inside
@@ -48,7 +51,8 @@ Contact: Easy ways to connect for opportunities & collaborations
 Let’s connect & collaborate!
 
 📧 Email: srushtivasoya216@gmail.com
-🔗 LinkedIn: linkedin.com/in/er-srushti-vasoya
+
+🔗 LinkedIn: www.linkedin.com/in/er-srushti-vasoya
 
 🔐 License
 
