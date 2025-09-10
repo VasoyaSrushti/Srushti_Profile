@@ -1,41 +1,58 @@
-# 🌐 Srushti Vasoya – Portfolio Website
+🌐 Srushti Vasoya – Portfolio Website
 
-Welcome to my personal portfolio repository!  
-This portfolio highlights my journey as a Business Development Executive with a creative edge in UI/UX design. It features selected projects, skillsets, and the services offered by my current organization, **GaminGuruz**.
+Welcome to my personal portfolio repository!
+This portfolio showcases my journey as a Business Development Executive with a strong technical foundation in Computer Engineering and a creative edge in UX research & wireframe design. It highlights selected projects, skill sets, and the professional services I offer.
 
-## 🖥️ Live Preview
-https://vasoyasrushti.github.io/Srushti_Profile 
----
+🖥️ Live Preview
 
-## 📌 About the Website
-This responsive portfolio is built using the [iPortfolio HTML Template](https://themewagon.github.io/iPortfolio/) and customized to reflect my personal brand, career story, and featured projects.
+👉 View Portfolio Website
 
-### 🔧 Tech Stack Used
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+📌 About the Website
 
----
+This responsive portfolio is built using the iPortfolio HTML Template
+ and customized to reflect my personal brand, career story, and featured projects.
 
-## 💼 What You'll Find Inside
-- **About Me:** A brief overview of my background, role, and mindset.
-- **Skills & Tools:** My key soft skills, technical tools, and workflow familiarity.
-- **Resume:** Academic and professional experience timeline.
-- **Portfolio:** UI/UX projects showcasing creativity and design logic.
-- **Services:** Digital solutions offered by GaminGuruz including:
-  - Web & Mobile App Development
-  - UI/UX and Graphic Design
-  - Game Design & Development
-- **Contact:** Easy ways to reach me for opportunities or collaborations.
-  
----
+🔧 Tech Stack
 
-## 📬 Contact
-Let’s connect and collaborate!  
-📧 **Email:** srushtivasoya216@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/er-srushti-vasoya
----
+HTML5
 
-## 🔐 License
-This project is open-source for learning and inspiration purposes. All custom content is owned by Srushti Vasoya.
+CSS3
+
+JavaScript
+
+Responsive Web Design
+
+💼 What’s Inside
+
+About Me: Snapshot of my background, role & growth mindset
+
+Skills & Tools: UX research, wireframes, client communication, project management & more
+
+Resume: Academic & professional experience timeline
+
+Portfolio: UX/UI projects showcasing creativity & design process
+
+Services: Professional solutions offered, including:
+
+UX Research & Wireframe Design
+
+Web & Mobile App Development
+
+UI/UX & Graphic Design
+
+Game Design Concepts
+
+Content Writing & Marketing Solutions
+
+Contact: Easy ways to connect for opportunities & collaborations
+
+📬 Contact
+
+Let’s connect & collaborate!
+
+📧 Email: srushtivasoya216@gmail.com
+🔗 LinkedIn: linkedin.com/in/er-srushti-vasoya
+
+🔐 License
+
+This project is open-source for learning & inspiration. All custom content is © Srushti Vasoya.
