@@ -5,7 +5,7 @@ This portfolio showcases my journey as a Business Development Executive with a s
 
 🖥️ Live Preview
 
-👉 View Portfolio Website
+👉 View Portfolio Website : https://vasoyasrushti.github.io/Srushti_Profile/
 
 📌 About the Website
 
@@ -15,11 +15,8 @@ This responsive portfolio is built using the iPortfolio HTML Template
 🔧 Tech Stack
 
 HTML5
-
 CSS3
-
 JavaScript
-
 Responsive Web Design
 
 💼 What’s Inside
